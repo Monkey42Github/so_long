@@ -36,4 +36,4 @@ Run the executable with the map file as an argument:
 Replace map.ber with the actual map file you want to load.
 
 ## Contributors
-
+[pschemit](https://github.com/pschemit)
