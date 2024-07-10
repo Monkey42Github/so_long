@@ -1,4 +1,4 @@
-# So_Long Project
+# So_Long
 
 ## Description
 So_Long is a project that involves creating a simple game using the MiniLibX graphics library. The game implements a grid-based map where the player navigates to reach a goal while avoiding obstacles.
